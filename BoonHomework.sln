@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoonHomework", "BoonHomework\BoonHomework.csproj", "{DAFE31B2-AD9C-42C5-B23B-C23BE7E47819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzyBuzzer", "FizzyBuzzer\FizzyBuzzer.csproj", "{CF0D761E-3CF3-4B82-8AEA-39FB320299EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkTester", "HomeworkTester\HomeworkTester.csproj", "{06D20FA6-EFBF-43A4-A31E-57FB8FBE1E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemArrayRecurser", "ItemArray\ItemArrayRecurser.csproj", "{62E35CE3-DC27-407C-BAF6-9C018B788ED2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFE31B2-AD9C-42C5-B23B-C23BE7E47819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFE31B2-AD9C-42C5-B23B-C23BE7E47819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFE31B2-AD9C-42C5-B23B-C23BE7E47819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFE31B2-AD9C-42C5-B23B-C23BE7E47819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0D761E-3CF3-4B82-8AEA-39FB320299EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0D761E-3CF3-4B82-8AEA-39FB320299EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0D761E-3CF3-4B82-8AEA-39FB320299EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0D761E-3CF3-4B82-8AEA-39FB320299EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D20FA6-EFBF-43A4-A31E-57FB8FBE1E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D20FA6-EFBF-43A4-A31E-57FB8FBE1E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D20FA6-EFBF-43A4-A31E-57FB8FBE1E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D20FA6-EFBF-43A4-A31E-57FB8FBE1E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E35CE3-DC27-407C-BAF6-9C018B788ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E35CE3-DC27-407C-BAF6-9C018B788ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E35CE3-DC27-407C-BAF6-9C018B788ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E35CE3-DC27-407C-BAF6-9C018B788ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
